@@ -1,8 +1,6 @@
 # Hi there 👋 , I'm Agis!
 Currently I am open to any opportunity especially in IT as a Mobile Developer and Web Developer. 
 
-### Tools:
-
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -20,11 +18,6 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agisrh&layout=compact" height=180 />
 </p>
 
-### Let's connect!
-<p>
-    <a href="https://www.linkedin.com/in/agisrh" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://https://twitter.com/agisrh" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
-</p>
 
 <!--
 
