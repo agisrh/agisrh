@@ -10,8 +10,9 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=agisrh&theme=dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agisrh&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=agisrh&theme=vue-dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agisrh&layout=compact&theme=vue-dark" height=195 />
+ 
 </p>
 
 
