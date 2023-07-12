@@ -43,7 +43,7 @@ Capable of working in a team environment or working independently
       <br>MySQL
      </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jquery" />
       <br>JQuery
      </td>
       <td align="center" width="96">
