@@ -46,10 +46,6 @@ Capable of working in a team environment or working independently
         <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jquery" />
       <br>JQuery
      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
     <td align="center" width="96">
         <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="45" height="45" />
       <br>Codeigniter
@@ -92,10 +88,6 @@ Capable of working in a team environment or working independently
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
       <br>Postman
-    </td>
-   <td align="center"  width="96">
-        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="45" height="45" alt="Trello" />
-      <br>Trello
     </td>
   </tr>
 </table>
