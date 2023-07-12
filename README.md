@@ -47,11 +47,11 @@ Capable of working in a team environment or working independently
       <br>JQuery
      </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="50" height="50" />
+        <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="45" height="45" />
       <br>Codeigniter
     </td>
   </tr>
@@ -74,7 +74,7 @@ Capable of working in a team environment or working independently
       <br>Vscode
     </td>
    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="48" height="48" alt="Xcode" />
+        <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="45" height="45" alt="Xcode" />
       <br>Xcode
     </td>
     <td align="center" width="96">
@@ -86,15 +86,15 @@ Capable of working in a team environment or working independently
       <br>GitLab
     </td>
    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="48" height="48" alt="Bitbucket" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="45" height="45" alt="Bitbucket" />
       <br>Bitbucket
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
       <br>Postman
     </td>
    <td align="center"  width="96">
-        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="48" height="48" alt="Trello" />
+        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="45" height="45" alt="Trello" />
       <br>Trello
     </td>
   </tr>
