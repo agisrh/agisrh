@@ -47,15 +47,15 @@ Capable of working in a team environment or working independently
       <br>Bootstrap
      </td>
     <td align="center" width="93">
-        <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="45" height="45" />
-      <br>Codeigniter
+        <img src="https://frebourg.es/wp-content/uploads/2017/12/slim-elephant.png" width="48" height="48" alt="Slim" />
+      <br>Slim
     </td>
   </tr>
  
   <tr>
-   <td align="center" width="93">
-        <img src="https://frebourg.es/wp-content/uploads/2017/12/slim-elephant.png" width="48" height="48" alt="Slim" />
-      <br>Slim
+    <td align="center" width="93">
+        <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="45" height="45" />
+      <br>Codeigniter
     </td>
    <td align="center" width="93">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
