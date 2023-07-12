@@ -43,8 +43,8 @@ Capable of working in a team environment or working independently
       <br>MySQL
      </td>
      <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jquery" />
-      <br>JQuery
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="bootstrap" />
+      <br>Bootstrap
      </td>
     <td align="center" width="93">
         <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="45" height="45" />
