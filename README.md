@@ -31,7 +31,7 @@ Capable of working in a team environment or working independently
       <br>Laravel
     </td>
      <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="javascript" />
       <br>Javascript
      </td>
      <td align="center" width="93">
