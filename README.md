@@ -47,7 +47,7 @@ Capable of working in a team environment or working independently
       <br>Bootstrap
      </td>
     <td align="center" width="93">
-        <img src="[https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="48" height="48" alt="Slim" />
+        <img src="https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="48" height="48" alt="Slim" />
       <br>Slim
     </td>
   </tr>
