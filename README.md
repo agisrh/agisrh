@@ -78,7 +78,7 @@ Capable of working in a team environment or working independently
       <br>Bootstrap
     </td>
     <td align="center"  width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" />
+            <img src="https://cdn.simpleicons.org/github/ffffff" width="45" height="45" />
       <br>Github
     </td>
    <td align="center" width="93">
