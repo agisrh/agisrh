@@ -15,11 +15,11 @@ Capable of working in a team environment or working independently
 <table>
   <tr>
     <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
     <td align="center" width="93">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="flutter" />
       <br>Flutter
     </td>
     <td align="center" width="93">
@@ -27,7 +27,7 @@ Capable of working in a team environment or working independently
       <br>PHP
     </td>
     <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="laravel" />
       <br>Laravel
     </td>
     <td align="center" width="93">
@@ -35,11 +35,11 @@ Capable of working in a team environment or working independently
       <br>Lumen
     </td>
     <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="python" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="python" />
       <br>Python
      </td>
      <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="javascript" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="45" height="45" alt="javascript" />
       <br>Javascript
      </td>
      <td align="center" width="93">
@@ -47,7 +47,7 @@ Capable of working in a team environment or working independently
       <br>PostgreSQL
      </td>
      <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       <br>MySQL
      </td>
   </tr>
@@ -58,27 +58,27 @@ Capable of working in a team environment or working independently
       <br>Codeigniter
     </td>
    <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" /> 
       <br>Firebase
     </td>
     <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Androidstudio" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="48" height="48" />
+      <br>Android
+    </td>
+     <td align="center" width="93">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" />
       <br>Android Studio
     </td>
    <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
-      <br>Vscode
-    </td>
-   <td align="center" width="93">
-        <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="45" height="45" alt="Xcode" />
-      <br>Xcode
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48" />
+      <br>iOS
     </td>
     <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
-      <br>Github
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" />
+      <br>Xcode
     </td>
     <td align="center"  width="93">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" />
       <br>GitLab
     </td>
    <td align="center" width="93">
@@ -86,7 +86,7 @@ Capable of working in a team environment or working independently
       <br>Slim
     </td>
     <td align="center"  width="93">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" />
       <br>Postman
     </td>
   </tr>
