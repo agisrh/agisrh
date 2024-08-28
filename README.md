@@ -54,7 +54,7 @@ Capable of working in a team environment or working independently
  
   <tr>
     <td align="center" width="93">
-        <img src="https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png" alt="Codeigniter" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" width="45" height="45" />
       <br>Codeigniter
     </td>
    <td align="center" width="93">
