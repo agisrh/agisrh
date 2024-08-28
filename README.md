@@ -15,23 +15,23 @@ Capable of working in a team environment or working independently
 <table>
   <tr>
     <td align="center" width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="dart" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" alt="dart" />
       <br>Dart
     </td>
     <td align="center" width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="flutter" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" alt="flutter" />
       <br>Flutter
     </td>
     <td align="center" width="93">
-       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" />
       <br>PHP
     </td>
     <td align="center" width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="laravel" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" alt="laravel" />
       <br>Laravel
     </td>
     <td align="center" width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" width="48" height="48" alt="lumen" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" width="45" height="45" alt="lumen" />
       <br>Lumen
     </td>
     <td align="center" width="93">
@@ -43,11 +43,11 @@ Capable of working in a team environment or working independently
       <br>Javascript
      </td>
      <td align="center" width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="postgres" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="45" height="45" alt="postgres" />
       <br>PostgreSQL
      </td>
      <td align="center" width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="mysql" />
       <br>MySQL
      </td>
   </tr>
@@ -58,35 +58,35 @@ Capable of working in a team environment or working independently
       <br>Codeigniter
     </td>
    <td align="center" width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" /> 
       <br>Firebase
     </td>
     <td align="center" width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="48" height="48" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="45" height="45" />
       <br>Android
     </td>
      <td align="center" width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" />
       <br>Android Studio
     </td>
    <td align="center" width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="48" height="48" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="45" height="45" />
       <br>iOS
     </td>
     <td align="center" width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="45" height="45" />
       <br>Xcode
     </td>
     <td align="center"  width="93">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" />
       <br>GitLab
     </td>
    <td align="center" width="93">
-        <img src="https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="48" height="48" alt="Slim" />
+        <img src="https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="45" height="45" alt="Slim" />
       <br>Slim
     </td>
     <td align="center"  width="93">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" />
       <br>Postman
     </td>
   </tr>
