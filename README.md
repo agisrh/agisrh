@@ -69,6 +69,10 @@ Capable of working in a team environment or working independently
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" />
       <br>Android Studio
     </td>
+    <td align="center"  width="93">
+            <img src="https://cdn.simpleicons.org/apple/ffffff" width="45" height="45" />
+      <br>iOS
+    </td>
     <td align="center" width="93">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="45" height="45" />
       <br>Xcode
@@ -80,10 +84,6 @@ Capable of working in a team environment or working independently
     <td align="center"  width="93">
             <img src="https://cdn.simpleicons.org/github/ffffff" width="45" height="45" />
       <br>Github
-    </td>
-   <td align="center" width="93">
-        <img src="https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="45" height="45" alt="Slim" />
-      <br>Slim
     </td>
     <td align="center"  width="93">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" />
