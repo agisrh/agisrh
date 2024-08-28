@@ -39,7 +39,7 @@ Capable of working in a team environment or working independently
       <br>Javascript
      </td>
      <td align="center" width="93">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
      </td>
      <td align="center" width="93">
