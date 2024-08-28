@@ -31,6 +31,10 @@ Capable of working in a team environment or working independently
       <br>Laravel
     </td>
     <td align="center" width="93">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" width="48" height="48" alt="lumen" />
+      <br>Lumen
+    </td>
+    <td align="center" width="93">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="python" />
       <br>Python
      </td>
@@ -46,10 +50,6 @@ Capable of working in a team environment or working independently
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
      </td>
-    <td align="center" width="93">
-        <img src="https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="48" height="48" alt="Slim" />
-      <br>Slim
-    </td>
   </tr>
  
   <tr>
@@ -81,9 +81,9 @@ Capable of working in a team environment or working independently
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
-   <td align="center"  width="93">
-        <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="45" height="45" alt="Bitbucket" />
-      <br>Bitbucket
+   <td align="center" width="93">
+        <img src="https://pbs.twimg.com/media/CQolRlrVAAAnrpC.png" width="48" height="48" alt="Slim" />
+      <br>Slim
     </td>
     <td align="center"  width="93">
         <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
