@@ -2,11 +2,6 @@
 An enthusiastic and self-motivated, strong background in process-oriented software development<br>
 Capable of working in a team environment or working independently
 <br>I am continually seeking new challenges and a desire to expand knowledge and experience
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=agisrh&theme=vue-dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agisrh&layout=compact&theme=vue-dark" height=195 />
- 
-</p>
 
 ### My favorite tools and technologies ⚙️
 
